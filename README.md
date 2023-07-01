@@ -1,6 +1,6 @@
 # Inventory-Analysis
 
-![](petrebels-JwMGy1h-JsY-unsplash (1).jpg)
+![](Manufacturer.jpg)
 ## Introduction
 This is power bi project of an inventory analysis of a manufacturing company which focuses on the production details of different products spaning from 2008-2013. The main focus is to generate insights of scraped and stocked products.
 
@@ -19,5 +19,7 @@ The following features were incoporated
 4. Built Slicers
 
 ## modelling
-Power bi automatically adjusted the model for which suiys me perfectly, so i didn't see the need to adjust my model.
 ![](https://app.powerbi.com/groups/me/reports/d7e5323e-8b1d-486d-9ec2-6b5eafacf059/ReportSection7ef3db98a987793c4deb?experience=power-bi&clientSideAuth=0)
+
+Power bi automatically adjusted the model for which suiys me perfectly, so i didn't see the need to adjust my model.
+
