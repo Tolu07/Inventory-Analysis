@@ -1,6 +1,6 @@
 # Inventory-Analysis
 
-![](petrebels-VH-OpMRhFII-unsplash.jpg)
+![](petrebels-JwMGy1h-JsY-unsplash (1).jpg)
 ## Introduction
 This is power bi project of an inventory analysis of a manufacturing company which focuses on the production details of different products spaning from 2008-2013. The main focus is to generate insights of scraped and stocked products.
 
