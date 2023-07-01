@@ -20,4 +20,4 @@ The following features were incoporated
 
 ## modelling
 Power bi automatically adjusted the model for which suiys me perfectly, so i didn't see the need to adjust my model.
-![](
+![](https://app.powerbi.com/groups/me/reports/d7e5323e-8b1d-486d-9ec2-6b5eafacf059/ReportSection7ef3db98a987793c4deb?experience=power-bi&clientSideAuth=0)
